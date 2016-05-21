@@ -22,14 +22,11 @@ When you have a technical issue that is not described in documentation, the firs
 * [MSDN forum](https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=ApplicationInsights)
 * [StackOverflow forum](http://stackoverflow.com/questions/tagged/ms-application-insights)
 	
-However there are situations were you would like developers to investigate your specific case. If you have support plan with Microsoft Azure you can open a ticket by following this link: https://azure.microsoft.com/en-us/support/options/
-If you don't have a support plan, our development team is happy to offer to best effort support for AppInsights customers. You can describe your case to us by submiting a feedback on Azure portal.
-Click on the smiley face icon in the top right corner to open Feedback panel. 
-
-![image](https://cloud.githubusercontent.com/assets/11968377/15450463/e4a5dcfa-1f50-11e6-8cde-dc689d806842.png)
-
-In the comment box please make sure to specify AppInsights911 as first line and then include the following information:
-
+However there are situations were you would like developers to investigate your specific case. If you have support plan with Microsoft Azure you can open a ticket by following this link: https://azure.microsoft.com/en-us/support/options/ .
+If you don't have a support plan, our development team is happy to offer best effort support to AppInsights customers. You can describe your case to us by submiting a feedback form on Azure portal.
+Click on the smiley face icon in the top right corner to open Feedback panel.  
+![image](https://cloud.githubusercontent.com/assets/11968377/15450463/e4a5dcfa-1f50-11e6-8cde-dc689d806842.png)   
+In the comment box please make sure to specify AppInsights911 as first line and then include the following information:   
 ```
 AppInsights911   
 ikey: <instrumentation key>   
