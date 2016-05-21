@@ -17,8 +17,11 @@
 	
 # How to get technical support from Application Insights development team
 	
-When you have a case that is not described in documentation, the first step is to ask the questions on our forums: 
+When you have a technical issue that is not described in documentation, the first step is to ask a question on one of our forums:
+
 * [MSDN forum](https://social.msdn.microsoft.com/Forums/vstudio/en-US/home?forum=ApplicationInsights)
 * [StackOverflow forum](http://stackoverflow.com/questions/tagged/ms-application-insights)
 	
-However there are situations were you would like developers to investigate your specific case. If you have support plan with Microsoft you can open a ticket by following this link: 
+However there are situations were you would like developers to investigate your specific case. If you have support plan with Microsoft Azure you can open a ticket by following this link: https://azure.microsoft.com/en-us/support/options/
+If you don't have a support plan, our development team is happy to offer to best effort support for AppInsights customers. You can describe your case to us by submiting a feedback on Azure portal.
+
