@@ -50,13 +50,12 @@ If you don't have a support plan, our development team is happy to offer best ef
 
     AppInsights   
     ikey: <instrumentation key>   
-    sdk: <SDK that you are using, including name and version>  
-    email: <email address that we should use to contact you. This is the most important field>  
+    sdk: <SDK that you are using, including name and version>   
     issue: <please describe the problem you are having>
 
     ```   
 
-    ![image](./media/app-insights-get-dev-support/02.png)   
+    ![image](https://cloud.githubusercontent.com/assets/11968377/15872411/29b8f560-2cae-11e6-86ab-a541e0e56536.png)  
 
 3. Check "Yes, it is ok to email you". 
 
